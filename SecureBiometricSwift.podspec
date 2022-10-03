@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'SecureBiometricSwift'
-    s.version          = '0.0.1'
+    s.version          = '0.0.2'
     s.summary          = 'Securing Local Authentication with Keychain for iOS.'
     s.homepage         = 'https://github.com/prongbang/SecureBiometricSwift'
     s.license          = 'MIT'
