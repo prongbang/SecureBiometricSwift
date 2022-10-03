@@ -15,7 +15,7 @@ In your `Package.swift` file, add `SecureBiometricSwift` dependency to correspon
 ```swift
 let package = Package(
   dependencies: [
-    .package(url: "https://github.com/prongbang/SecureBiometricSwift.git", from: "1.0.0"),
+    .package(url: "https://github.com/prongbang/SecureBiometricSwift.git", from: "0.0.1"),
   ],
 )
 ```
