@@ -26,7 +26,6 @@ let package = Package(
 
 ```xml
 <dict>
-  ...
   <key>NSFaceIDUsageDescription</key>
   <string>This application wants to access your TouchID or FaceID</string>
 </dict>
