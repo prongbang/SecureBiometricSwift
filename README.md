@@ -31,7 +31,9 @@ let package = Package(
 </dict>
 ```
 
-### Encrypt
+### Cryptography
+
+#### Encrypt
 
 ```swift
 import SecureBiometricSwift
@@ -42,7 +44,7 @@ let plainText = "Hello"
 let cipherText = secureBiometricSwift.encrypt(plainText: plainText)
 ```
 
-### Decrypt
+#### Decrypt
 
 ```swift
 import SecureBiometricSwift
