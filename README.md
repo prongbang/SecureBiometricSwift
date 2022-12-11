@@ -22,6 +22,16 @@ let package = Package(
 
 ## How to use
 
+### Privacy `info.plist`
+
+```xml
+<dict>
+  ...
+	<key>NSFaceIDUsageDescription</key>
+  <string>This application wants to access your TouchID or FaceID</string>
+</dict>
+```
+
 ### Encrypt
 
 ```swift
