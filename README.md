@@ -31,7 +31,7 @@ let package = Package(
 </dict>
 ```
 
-### Cryptography
+### Biometric + Cryptography
 
 #### Encrypt
 
